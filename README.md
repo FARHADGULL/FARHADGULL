@@ -17,7 +17,7 @@ Flutter: I have significant expertise in developing cross-platform mobile applic
 - Testing and Debugging: I am experienced in writing unit tests and conducting debugging sessions to ensure the quality and stability of Flutter applications.
 
 ### 📫 How to reach me:
-- 💬 Ask me about UI tools, programming languages, Flutter via [Email](farhadnust41@gmail.com)
+- 💬 Ask me about UI tools, programming languages, Flutter via **Email**: [farhadnust41@gmail.com](mailto:your-email@example.com)
 - 📫 Hit me up on Linked-in via [Farhad Khan](https://www.linkedin.com/in/Farhadkhan41)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Best predictions!

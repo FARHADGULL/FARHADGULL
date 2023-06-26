@@ -19,6 +19,7 @@ Flutter: I have significant expertise in developing cross-platform mobile applic
 ### 📫 How to reach me:
 - 💬 Ask me about UI tools, programming languages, Flutter via **Email**: [farhadnust41@gmail.com](mailto:your-email@example.com)
 - 📫 Hit me up on Linked-in via [Farhad Khan](https://www.linkedin.com/in/Farhadkhan41)
+- 🐦 Follow me on Twiter to keep yourself motivated via **Twitter**: [Farhad Khan](https://twitter.com/FarhadKhan_4u)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Best predictions!
 
